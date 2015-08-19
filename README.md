@@ -2,6 +2,15 @@
 play with read m
 
 from https://help.github.com/articles/markdown-basics/
+
+Check out this neat program I wrote:
+
+```
+x = 0
+x = 2 + 2
+what is x
+```
+
 # The largest heading (an <h1> tag)
 ## The second largest heading (an <h2> tag)
 …
