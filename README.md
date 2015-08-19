@@ -1,6 +1,16 @@
 # readme
 play with read m
 
+https://help.github.com/articles/github-flavored-markdown/
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+
+
+
 from https://help.github.com/articles/markdown-basics/
 
 Check out this neat program I wrote:
